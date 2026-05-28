@@ -1,5 +1,6 @@
 # noise_dMRI_ML
 Code for the paper "Realistic noise synthesis reduces bias and improves tissue microstructure estimation with supervised machine learning"
+
 Includes the following files for the proposed noise injection method specifically to fit a cylinder and zeppelin model:
 
 **llsFitSH.py** - Fit the spherical harmonics (SH) to the real data using linear least squares.
